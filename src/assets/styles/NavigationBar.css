@@ -1,0 +1,6 @@
+#main-navbar-nav .dropdown {
+  position: static !important;
+}
+#main-navbar-nav .dropdown-menu {
+  width: 100%;
+}
